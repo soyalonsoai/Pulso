@@ -116,11 +116,6 @@ Preguntar todo junto produce respuestas superficiales. Una pregunta a la vez con
 **Auto-Reparación**
 Cuando algo falla: Analizar → Parchear → Probar → Documentar. Sin parches genéricos. Sin adivinar.
 
----
-
-## 📋 ¿Por qué `claude.md` y no `gemini.md`?
-
-Pulso usa `claude.md` como la **Constitución del Proyecto** — el archivo que define esquemas de datos, reglas de negocio e invariantes arquitectónicos. Es el único archivo que nunca se borra y siempre refleja la realidad del sistema.
 
 ---
 
